@@ -1,0 +1,13 @@
+.lista-suspensa label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 20px;
+
+}
+
+.lista-suspensa select{
+    font-size: 20px;
+    padding: 5px;
+   
+
+}
