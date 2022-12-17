@@ -23,9 +23,8 @@ const Formulario = ()=>{
                 <CampoTexto label="Nome do Funcionário" placeholder="Informe o nome" />
                 <CampoTexto label="Cargo" placeholder="Informe o cargo"/>
                 <CampoTexto label="Imagem" placeholder="Informe a imagem"/>
-                <ListaSuspensa label="Time" itens={times}/>
-               
-                
+                <ListaSuspensa label="Time" itens={times}/>   
+                             
             </form>
         </section>
     )
